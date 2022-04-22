@@ -1,7 +1,7 @@
 from packages import *
 
 
-# Model takes 4 inputs
+# Model takes 5 inputs
 # epsilon used in convergence criterion `converged'
 # run_EM returns the model density
 
